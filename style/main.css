@@ -318,13 +318,13 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background-image: url(image/zzzzwashu0.png);
-        font-size: 300%;
+        font-size: 200%;
             background-size: 100% 100%;
 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background-image: url(image/zzzzwashu1.png);
-        font-size: 300%;
+        font-size: 200%;
 
             background-size: 100% 100%;
 
@@ -332,30 +332,30 @@ hr {
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background-image: url(image/zzzzwashu2.png);
-        font-size: 300%;
+        font-size: 200%;
 
             background-size: 100% 100%;
     }
 
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu3.png);     font-size: 300%;
+    background-image: url(image/zzzzwashu3.png);     font-size: 200%;
        background-size: 100% 100%;
 }
 
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu4.png);     font-size: 300%;
+    background-image: url(image/zzzzwashu4.png);     font-size: 200%;
        background-size: 100% 100%;
 }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu5.png);       font-size: 300%;
+    background-image: url(image/zzzzwashu5.png);       font-size: 200%;
      background-size: 100% 100%;
 }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu6.png);    font-size: 300%;
+    background-image: url(image/zzzzwashu6.png);    font-size: 200%;
 
             background-size: 100% 100%;
 
@@ -366,7 +366,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu7.png);    font-size: 300%;
+    background-image: url(image/zzzzwashu7.png);    font-size: 200%;
 
             background-size: 100% 100%;
 
@@ -377,7 +377,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu8.png);    font-size: 300%;
+    background-image: url(image/zzzzwashu8.png);    font-size: 200%;
 
             background-size: 100% 100%;
 
@@ -388,7 +388,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu9.png);    font-size: 300%;
+    background-image: url(image/zzzzwashu9.png);    font-size: 200%;
 
             background-size: 100% 100%;
 
@@ -399,7 +399,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu10.png);      font-size: 300%;
+    background-image: url(image/zzzzwashu10.png);      font-size: 200%;
 
             background-size: 100% 100%;
 
