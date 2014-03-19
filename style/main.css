@@ -331,7 +331,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu2.png);
+    background-image: url(image/zzzzwashu6.png);
         font-size: 200%;
 
             background-size: 100% 100%;
@@ -355,7 +355,7 @@ hr {
 }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background-image: url(image/zzzzwashu6.png);    font-size: 200%;
+    background-image: url(image/zzzzwashu2.png);    font-size: 200%;
 
             background-size: 100% 100%;
 
